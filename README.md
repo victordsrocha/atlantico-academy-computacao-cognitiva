@@ -1,1 +1,1 @@
-atlantico-academy-computacao-cognitiva
+Repositório das atividades do curso de computação cognitiva
